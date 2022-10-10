@@ -16,13 +16,13 @@
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 
-**Data Platform Engineer** &#12299;_working in Data & Automation_
+**Data Platform Engineer** &#12299;_working in Data & Automation. Experience with AWS and GCP architectures._
 <br/>
 
 
 ----
 
 <a href="https://linkedin.com/in/eliyarson">
-  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
 
