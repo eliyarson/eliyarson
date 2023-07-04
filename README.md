@@ -1,4 +1,4 @@
-### Hey, I'm Eli! &nbsp;&nbsp;<sup> &#12299; I'm a Data Platform Engineer, I build reliable data infrastructure.</sup>
+### Hey, I'm Eli! &nbsp;&nbsp;<sup> &#12299; I'm a Data Platform Engineer, I build reliable and scalable data infrastructure and also end-to-end data pipelines.</sup>
 
 ----
 
